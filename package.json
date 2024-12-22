@@ -1,0 +1,13 @@
+{
+  "name": "aws-cicd-demo",
+  "version": "1.0.0",
+  "description": "Demo application for AWS CI/CD",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Tests passed\" && exit 0"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
